@@ -1,9 +1,9 @@
 import React from "react";
 import {Box, Flex} from "@chakra-ui/core";
 
-import SimpleForm from "./components/SimpleForm";
-import SelectForm from "./components/SelectForm";
-import CheckboxForm from "./components/CheckboxForm";
+import SimpleForm from "./SimpleForm";
+import SelectForm from "./SelectForm";
+import CheckboxForm from "./CheckboxForm";
 
 export default function Form() {
 
