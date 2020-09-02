@@ -1,30 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Aplicação do Chakra UI para facitar o desenvolvimento front-end
 
-## Getting Started
+Alô, visitante, esse projeto foi feito para mostrar a aplicação da biblioteca de interface Chakra UI em uma aplicação React para os leitores do [artigo que fiz falando sobre o assunto.](https://medium.com/igor-js/chakra-ui-facilitando-o-front-end-javascript-aabcade75f09?source=---------2------------------)  
 
-First, run the development server:
+A aplicação do Chakra UI, em geral, é bem simples, rápida e, na prática, economiza muuuuito trabalho, tempo e código. Recomendo dar uma lida no [artigo](https://medium.com/igor-js/chakra-ui-facilitando-o-front-end-javascript-aabcade75f09?source=---------2------------------) e espero que ele desperte a curiosidade para que você comece agora com essa ferramenta, porque eu, sinceramente, acho que é um grande suporte para qualquer desenvolvedor.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Além de tudo, sempre gosto de destacar a enoooorme facilidade que o Chakra UI nos fornece para deixar o site totalmente responsivo e bonito. É incrível!!!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Implementei alguns elementos de formulário para exemplificar a flexibilidade do Chakra. Clique no link e veja como está (não esquece de testar a responsividade hihi):
+###### [Chakra UI implementado no Next.js]()
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Feito com 🧡 por Igor Lourenço
