@@ -1,4 +1,4 @@
-### Aplicação do Chakra UI para facitar o desenvolvimento front-end
+### ⚡ Aplicação do Chakra UI para facitar o desenvolvimento front-end
 
 Alô, visitante, esse projeto foi feito para mostrar a aplicação da biblioteca de interface Chakra UI em uma aplicação React para os leitores do [artigo que fiz falando sobre o assunto.](https://medium.com/igor-js/chakra-ui-facilitando-o-front-end-javascript-aabcade75f09)  
 
@@ -12,4 +12,4 @@ Implementei alguns elementos de formulário para exemplificar a flexibilidade do
 
 ---
 
-Feito com 🧡 por Igor Lourenço
+Feito com ❤️ e JavaScript por Igor Lourenço
