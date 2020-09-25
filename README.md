@@ -1,15 +1,26 @@
 ### ⚡ Aplicação do Chakra UI para facitar o desenvolvimento front-end
 
-Alô, visitante, esse projeto foi feito para mostrar a aplicação da biblioteca de interface Chakra UI em uma aplicação React para os leitores do [artigo que fiz falando sobre o assunto.](https://medium.com/igor-js/chakra-ui-facilitando-o-front-end-javascript-aabcade75f09)  
+###### 👾 Available in [chakra-ui-next-js.netlify.app](https://chakra-ui-next-js.netlify.app/) 
 
-A aplicação do Chakra UI, em geral, é bem simples, rápida e, na prática, economiza muuuuito trabalho, tempo e código. Recomendo dar uma lida no [artigo](https://medium.com/igor-js/chakra-ui-facilitando-o-front-end-javascript-aabcade75f09) e espero que ele desperte a curiosidade para que você comece agora com essa ferramenta, porque eu, sinceramente, acho que é um grande suporte para qualquer desenvolvedor.
+**This project was made to show the application of the Chakra UI interface library in a React application to the readers of the [article I did talking about it.](https://medium.com/igor-js/chakra-ui-facilitando-o-front-end-javascript-aabcade75f09)**
 
-Além de tudo, sempre gosto de destacar a enoooorme facilidade que o Chakra UI nos fornece para deixar o site totalmente responsivo e bonito. É incrível!!!
+**The application of Chakra UI in general is very simple, fast and saves a lot of work, time and code. I recommend reading the [article](https://medium.com/igor-js/chakra-ui-facilizando-o-front-end-javascript-aabcade75f09) and I hope it will arouse curiosity so that you start now with this tool, because I honestly think it is a great support for any developer.**
 
-Implementei alguns elementos de formulário para exemplificar a flexibilidade do Chakra. Clique no link e veja como está (não esquece de testar a responsividade hihi):
-###### [Chakra UI implementado no Next.js](https://chakra-ui-next-js.netlify.app/)
-
+**After all, I always like to highlight the great ease that Chakra UI offers us to make the site totally responsive and beautiful. It's amazing!!!**
 
 ---
 
-Feito com ❤️ e JavaScript por Igor Lourenço
+##### Techologies used:
+* [JavaScript](https://www.javascript.com/): programming language used in the project. The life of web applications;
+* [ReactJS](https://pt-br.reactjs.org/): JavaScript library used to build web applications;
+* [Next.js](http://nextjs.org/): it is a framework from [ReactJS](https://pt-br.reactjs.org/) that I use to build my projects;
+* [Chakra UI](https://chakra-ui.com/): as a design system for building interface elements and styling components;
+
+---
+
+##### Practiced concepts:
+* Component interface.
+
+---
+
+Made With ❤️ & JavaScript by Igor Lourenço
