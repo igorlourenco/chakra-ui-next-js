@@ -10,7 +10,7 @@
 
 ---
 
-##### Techologies used:
+##### Used techologies:
 * [JavaScript](https://www.javascript.com/): programming language used in the project. The life of web applications;
 * [ReactJS](https://pt-br.reactjs.org/): JavaScript library used to build web applications;
 * [Next.js](http://nextjs.org/): it is a framework from [ReactJS](https://pt-br.reactjs.org/) that I use to build my projects;
